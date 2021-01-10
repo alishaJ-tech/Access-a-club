@@ -1,0 +1,13 @@
+C:\Users\muftanatu\clubInvite\bin\Debug\netcoreapp3.1\clubInvite.exe
+C:\Users\muftanatu\clubInvite\bin\Debug\netcoreapp3.1\clubInvite.deps.json
+C:\Users\muftanatu\clubInvite\bin\Debug\netcoreapp3.1\clubInvite.runtimeconfig.json
+C:\Users\muftanatu\clubInvite\bin\Debug\netcoreapp3.1\clubInvite.runtimeconfig.dev.json
+C:\Users\muftanatu\clubInvite\bin\Debug\netcoreapp3.1\clubInvite.dll
+C:\Users\muftanatu\clubInvite\bin\Debug\netcoreapp3.1\clubInvite.pdb
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.csprojAssemblyReference.cache
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.AssemblyInfoInputs.cache
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.AssemblyInfo.cs
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.csproj.CoreCompileInputs.cache
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.dll
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.pdb
+C:\Users\muftanatu\clubInvite\obj\Debug\netcoreapp3.1\clubInvite.genruntimeconfig.cache
